@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOCPNet", "IOCPNet\IOCPNet.csproj", "{351846E6-A7D5-4051-B11F-F0C93CB322F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{351846E6-A7D5-4051-B11F-F0C93CB322F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351846E6-A7D5-4051-B11F-F0C93CB322F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351846E6-A7D5-4051-B11F-F0C93CB322F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351846E6-A7D5-4051-B11F-F0C93CB322F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7CA9FF0-5044-41A9-A505-EA19542C3375}
+	EndGlobalSection
+EndGlobal
