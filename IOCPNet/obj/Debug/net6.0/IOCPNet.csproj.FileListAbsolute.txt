@@ -1,0 +1,12 @@
+F:\Net\IOCPNet\IOCPNet\bin\Debug\net6.0\IOCPNet.deps.json
+F:\Net\IOCPNet\IOCPNet\bin\Debug\net6.0\IOCPNet.dll
+F:\Net\IOCPNet\IOCPNet\bin\Debug\net6.0\IOCPNet.pdb
+F:\Net\IOCPNet\IOCPNet\obj\Debug\net6.0\IOCPNet.csproj.AssemblyReference.cache
+F:\Net\IOCPNet\IOCPNet\obj\Debug\net6.0\IOCPNet.GeneratedMSBuildEditorConfig.editorconfig
+F:\Net\IOCPNet\IOCPNet\obj\Debug\net6.0\IOCPNet.AssemblyInfoInputs.cache
+F:\Net\IOCPNet\IOCPNet\obj\Debug\net6.0\IOCPNet.AssemblyInfo.cs
+F:\Net\IOCPNet\IOCPNet\obj\Debug\net6.0\IOCPNet.csproj.CoreCompileInputs.cache
+F:\Net\IOCPNet\IOCPNet\obj\Debug\net6.0\IOCPNet.dll
+F:\Net\IOCPNet\IOCPNet\obj\Debug\net6.0\refint\IOCPNet.dll
+F:\Net\IOCPNet\IOCPNet\obj\Debug\net6.0\IOCPNet.pdb
+F:\Net\IOCPNet\IOCPNet\obj\Debug\net6.0\ref\IOCPNet.dll
